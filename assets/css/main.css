@@ -1,12 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
-/*
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -2107,13 +2101,13 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #f56a6a;
+		color: #ff1e00;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #f56a6a;
-			color: #f56a6a !important;
+			border-bottom-color: #ff1e00;
+			color: #ff1e00 !important;
 		}
 
 			a:hover strong {
@@ -2282,7 +2276,7 @@
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #f56a6a;
+		border-bottom: solid 3px #ff1e00;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -2343,8 +2337,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #ff1e00;
+			box-shadow: 0 0 0 1px #ff1e00;
 		}
 
 	.select-wrapper {
@@ -2454,8 +2448,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #ff1e00;
+			box-shadow: 0 0 0 1px #ff1e00;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2688,7 +2682,7 @@
 				}
 
 				ul.contact li:before {
-					color: #f56a6a;
+					color: #ff1e00;
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2881,8 +2875,8 @@
 		background-color: transparent;
 		border-radius: 0.375em;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #f56a6a;
-		color: #f56a6a !important;
+		box-shadow: inset 0 0 0 2px #ff1e00;
+		color: #ff1e00 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
@@ -2955,7 +2949,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #f56a6a;
+			background-color: #ff1e00;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -3075,7 +3069,7 @@
 			}
 
 				.features article .icon:before {
-					color: #f56a6a;
+					color: #ff1e00;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3720,7 +3714,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #f56a6a;
+		border-bottom: solid 5px #ff1e00;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
@@ -3915,7 +3909,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: #ff1e00;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -3949,7 +3943,7 @@
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #f56a6a;
+					color: #ff1e00;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
